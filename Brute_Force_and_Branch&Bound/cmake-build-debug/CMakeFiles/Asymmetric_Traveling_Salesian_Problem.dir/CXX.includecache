@@ -1,0 +1,64 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Kuba/CLionProjects/Asymmetric Traveling Salesian Problem/RandomGenerator.cpp
+RandomGenerator.h
+C:/Users/Kuba/CLionProjects/Asymmetric Traveling Salesian Problem/RandomGenerator.h
+iostream
+-
+stdlib.h
+-
+fstream
+-
+time.h
+-
+
+C:/Users/Kuba/CLionProjects/Asymmetric Traveling Salesian Problem/RandomGenerator.h
+
+C:/Users/Kuba/CLionProjects/Asymmetric Traveling Salesian Problem/Time.cpp
+Time.h
+C:/Users/Kuba/CLionProjects/Asymmetric Traveling Salesian Problem/Time.h
+RandomGenerator.h
+C:/Users/Kuba/CLionProjects/Asymmetric Traveling Salesian Problem/RandomGenerator.h
+TravellingSalesian.h
+C:/Users/Kuba/CLionProjects/Asymmetric Traveling Salesian Problem/TravellingSalesian.h
+iostream
+-
+ctime
+-
+
+C:/Users/Kuba/CLionProjects/Asymmetric Traveling Salesian Problem/Time.h
+RandomGenerator.h
+C:/Users/Kuba/CLionProjects/Asymmetric Traveling Salesian Problem/RandomGenerator.h
+
+C:/Users/Kuba/CLionProjects/Asymmetric Traveling Salesian Problem/TravellingSalesian.h
+string
+-
+vector
+-
+
+C:/Users/Kuba/CLionProjects/Asymmetric Traveling Salesian Problem/main.cpp
+RandomGenerator.h
+C:/Users/Kuba/CLionProjects/Asymmetric Traveling Salesian Problem/RandomGenerator.h
+TravellingSalesian.h
+C:/Users/Kuba/CLionProjects/Asymmetric Traveling Salesian Problem/TravellingSalesian.h
+Time.h
+C:/Users/Kuba/CLionProjects/Asymmetric Traveling Salesian Problem/Time.h
+iostream
+-
+sstream
+-
+time.h
+-
+windows.h
+-
+iomanip
+-
+ctime
+-
+

@@ -1,0 +1,3 @@
+C:/Users/Kuba/CLionProjects/Asymmetric Traveling Salesian Problem/cmake-build-debug/CMakeFiles/Asymmetric_Traveling_Salesian_Problem.dir
+C:/Users/Kuba/CLionProjects/Asymmetric Traveling Salesian Problem/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Kuba/CLionProjects/Asymmetric Traveling Salesian Problem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
