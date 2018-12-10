@@ -4,10 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/Kuba/CLionProjects/Asymmetric Traveling Salesian Problem/RandomGenerator.cpp" "C:/Users/Kuba/CLionProjects/Asymmetric Traveling Salesian Problem/cmake-build-debug/CMakeFiles/Asymmetric_Traveling_Salesian_Problem.dir/RandomGenerator.cpp.obj"
-  "C:/Users/Kuba/CLionProjects/Asymmetric Traveling Salesian Problem/Time.cpp" "C:/Users/Kuba/CLionProjects/Asymmetric Traveling Salesian Problem/cmake-build-debug/CMakeFiles/Asymmetric_Traveling_Salesian_Problem.dir/Time.cpp.obj"
-  "C:/Users/Kuba/CLionProjects/Asymmetric Traveling Salesian Problem/TravellingSalesian.cpp" "C:/Users/Kuba/CLionProjects/Asymmetric Traveling Salesian Problem/cmake-build-debug/CMakeFiles/Asymmetric_Traveling_Salesian_Problem.dir/TravellingSalesian.cpp.obj"
-  "C:/Users/Kuba/CLionProjects/Asymmetric Traveling Salesian Problem/main.cpp" "C:/Users/Kuba/CLionProjects/Asymmetric Traveling Salesian Problem/cmake-build-debug/CMakeFiles/Asymmetric_Traveling_Salesian_Problem.dir/main.cpp.obj"
+  "C:/Users/Kuba/CLionProjects/Algorithms/Brute_Force_and_Branch&Bound/RandomGenerator.cpp" "C:/Users/Kuba/CLionProjects/Algorithms/Brute_Force_and_Branch&Bound/cmake-build-debug/CMakeFiles/Asymmetric_Traveling_Salesian_Problem.dir/RandomGenerator.cpp.obj"
+  "C:/Users/Kuba/CLionProjects/Algorithms/Brute_Force_and_Branch&Bound/Time.cpp" "C:/Users/Kuba/CLionProjects/Algorithms/Brute_Force_and_Branch&Bound/cmake-build-debug/CMakeFiles/Asymmetric_Traveling_Salesian_Problem.dir/Time.cpp.obj"
+  "C:/Users/Kuba/CLionProjects/Algorithms/Brute_Force_and_Branch&Bound/TravellingSalesian.cpp" "C:/Users/Kuba/CLionProjects/Algorithms/Brute_Force_and_Branch&Bound/cmake-build-debug/CMakeFiles/Asymmetric_Traveling_Salesian_Problem.dir/TravellingSalesian.cpp.obj"
+  "C:/Users/Kuba/CLionProjects/Algorithms/Brute_Force_and_Branch&Bound/main.cpp" "C:/Users/Kuba/CLionProjects/Algorithms/Brute_Force_and_Branch&Bound/cmake-build-debug/CMakeFiles/Asymmetric_Traveling_Salesian_Problem.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

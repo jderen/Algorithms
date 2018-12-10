@@ -1,0 +1,3 @@
+"C:\Users\Kuba\AppData\Roaming\JetBrains\CLion 2018.2.5\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\PEA2Project.dir/objects.a
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\ar.exe cr CMakeFiles\PEA2Project.dir/objects.a @CMakeFiles\PEA2Project.dir\objects1.rsp
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\PEA2Project.dir/objects.a -Wl,--no-whole-archive  -o PEA2Project.exe -Wl,--out-implib,libPEA2Project.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\PEA2Project.dir\linklibs.rsp

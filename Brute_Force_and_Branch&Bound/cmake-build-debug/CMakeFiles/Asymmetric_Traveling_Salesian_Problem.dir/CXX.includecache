@@ -6,9 +6,9 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Kuba/CLionProjects/Asymmetric Traveling Salesian Problem/RandomGenerator.cpp
+C:/Users/Kuba/CLionProjects/Algorithms/Brute_Force_and_Branch&Bound/RandomGenerator.cpp
 RandomGenerator.h
-C:/Users/Kuba/CLionProjects/Asymmetric Traveling Salesian Problem/RandomGenerator.h
+C:/Users/Kuba/CLionProjects/Algorithms/Brute_Force_and_Branch&Bound/RandomGenerator.h
 iostream
 -
 stdlib.h
@@ -18,37 +18,51 @@ fstream
 time.h
 -
 
-C:/Users/Kuba/CLionProjects/Asymmetric Traveling Salesian Problem/RandomGenerator.h
+C:/Users/Kuba/CLionProjects/Algorithms/Brute_Force_and_Branch&Bound/RandomGenerator.h
 
-C:/Users/Kuba/CLionProjects/Asymmetric Traveling Salesian Problem/Time.cpp
+C:/Users/Kuba/CLionProjects/Algorithms/Brute_Force_and_Branch&Bound/Time.cpp
 Time.h
-C:/Users/Kuba/CLionProjects/Asymmetric Traveling Salesian Problem/Time.h
+C:/Users/Kuba/CLionProjects/Algorithms/Brute_Force_and_Branch&Bound/Time.h
 RandomGenerator.h
-C:/Users/Kuba/CLionProjects/Asymmetric Traveling Salesian Problem/RandomGenerator.h
+C:/Users/Kuba/CLionProjects/Algorithms/Brute_Force_and_Branch&Bound/RandomGenerator.h
 TravellingSalesian.h
-C:/Users/Kuba/CLionProjects/Asymmetric Traveling Salesian Problem/TravellingSalesian.h
+C:/Users/Kuba/CLionProjects/Algorithms/Brute_Force_and_Branch&Bound/TravellingSalesian.h
 iostream
 -
 ctime
 -
 
-C:/Users/Kuba/CLionProjects/Asymmetric Traveling Salesian Problem/Time.h
+C:/Users/Kuba/CLionProjects/Algorithms/Brute_Force_and_Branch&Bound/Time.h
 RandomGenerator.h
-C:/Users/Kuba/CLionProjects/Asymmetric Traveling Salesian Problem/RandomGenerator.h
+C:/Users/Kuba/CLionProjects/Algorithms/Brute_Force_and_Branch&Bound/RandomGenerator.h
 
-C:/Users/Kuba/CLionProjects/Asymmetric Traveling Salesian Problem/TravellingSalesian.h
+C:/Users/Kuba/CLionProjects/Algorithms/Brute_Force_and_Branch&Bound/TravellingSalesian.cpp
+TravellingSalesian.h
+C:/Users/Kuba/CLionProjects/Algorithms/Brute_Force_and_Branch&Bound/TravellingSalesian.h
+iostream
+-
+fstream
+-
+algorithm
+-
+queue
+-
+climits
+-
+
+C:/Users/Kuba/CLionProjects/Algorithms/Brute_Force_and_Branch&Bound/TravellingSalesian.h
 string
 -
 vector
 -
 
-C:/Users/Kuba/CLionProjects/Asymmetric Traveling Salesian Problem/main.cpp
+C:/Users/Kuba/CLionProjects/Algorithms/Brute_Force_and_Branch&Bound/main.cpp
 RandomGenerator.h
-C:/Users/Kuba/CLionProjects/Asymmetric Traveling Salesian Problem/RandomGenerator.h
+C:/Users/Kuba/CLionProjects/Algorithms/Brute_Force_and_Branch&Bound/RandomGenerator.h
 TravellingSalesian.h
-C:/Users/Kuba/CLionProjects/Asymmetric Traveling Salesian Problem/TravellingSalesian.h
+C:/Users/Kuba/CLionProjects/Algorithms/Brute_Force_and_Branch&Bound/TravellingSalesian.h
 Time.h
-C:/Users/Kuba/CLionProjects/Asymmetric Traveling Salesian Problem/Time.h
+C:/Users/Kuba/CLionProjects/Algorithms/Brute_Force_and_Branch&Bound/Time.h
 iostream
 -
 sstream

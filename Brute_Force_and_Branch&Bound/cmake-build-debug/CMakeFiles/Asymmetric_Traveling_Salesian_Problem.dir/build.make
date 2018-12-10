@@ -42,10 +42,10 @@ RM = "C:\Users\Kuba\AppData\Roaming\JetBrains\CLion 2018.2.5\bin\cmake\win\bin\c
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "C:\Users\Kuba\CLionProjects\Asymmetric Traveling Salesian Problem"
+CMAKE_SOURCE_DIR = "C:\Users\Kuba\CLionProjects\Algorithms\Brute_Force_and_Branch&Bound"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "C:\Users\Kuba\CLionProjects\Asymmetric Traveling Salesian Problem\cmake-build-debug"
+CMAKE_BINARY_DIR = "C:\Users\Kuba\CLionProjects\Algorithms\Brute_Force_and_Branch&Bound\cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Asymmetric_Traveling_Salesian_Problem.dir/depend.make
@@ -58,55 +58,55 @@ include CMakeFiles/Asymmetric_Traveling_Salesian_Problem.dir/flags.make
 
 CMakeFiles/Asymmetric_Traveling_Salesian_Problem.dir/main.cpp.obj: CMakeFiles/Asymmetric_Traveling_Salesian_Problem.dir/flags.make
 CMakeFiles/Asymmetric_Traveling_Salesian_Problem.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Kuba\CLionProjects\Asymmetric Traveling Salesian Problem\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Asymmetric_Traveling_Salesian_Problem.dir/main.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Asymmetric_Traveling_Salesian_Problem.dir\main.cpp.obj -c "C:\Users\Kuba\CLionProjects\Asymmetric Traveling Salesian Problem\main.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Kuba\CLionProjects\Algorithms\Brute_Force_and_Branch&Bound\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Asymmetric_Traveling_Salesian_Problem.dir/main.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Asymmetric_Traveling_Salesian_Problem.dir\main.cpp.obj -c "C:\Users\Kuba\CLionProjects\Algorithms\Brute_Force_and_Branch&Bound\main.cpp"
 
 CMakeFiles/Asymmetric_Traveling_Salesian_Problem.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Asymmetric_Traveling_Salesian_Problem.dir/main.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Kuba\CLionProjects\Asymmetric Traveling Salesian Problem\main.cpp" > CMakeFiles\Asymmetric_Traveling_Salesian_Problem.dir\main.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Kuba\CLionProjects\Algorithms\Brute_Force_and_Branch&Bound\main.cpp" > CMakeFiles\Asymmetric_Traveling_Salesian_Problem.dir\main.cpp.i
 
 CMakeFiles/Asymmetric_Traveling_Salesian_Problem.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Asymmetric_Traveling_Salesian_Problem.dir/main.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Kuba\CLionProjects\Asymmetric Traveling Salesian Problem\main.cpp" -o CMakeFiles\Asymmetric_Traveling_Salesian_Problem.dir\main.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Kuba\CLionProjects\Algorithms\Brute_Force_and_Branch&Bound\main.cpp" -o CMakeFiles\Asymmetric_Traveling_Salesian_Problem.dir\main.cpp.s
 
 CMakeFiles/Asymmetric_Traveling_Salesian_Problem.dir/RandomGenerator.cpp.obj: CMakeFiles/Asymmetric_Traveling_Salesian_Problem.dir/flags.make
 CMakeFiles/Asymmetric_Traveling_Salesian_Problem.dir/RandomGenerator.cpp.obj: ../RandomGenerator.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Kuba\CLionProjects\Asymmetric Traveling Salesian Problem\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Asymmetric_Traveling_Salesian_Problem.dir/RandomGenerator.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Asymmetric_Traveling_Salesian_Problem.dir\RandomGenerator.cpp.obj -c "C:\Users\Kuba\CLionProjects\Asymmetric Traveling Salesian Problem\RandomGenerator.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Kuba\CLionProjects\Algorithms\Brute_Force_and_Branch&Bound\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Asymmetric_Traveling_Salesian_Problem.dir/RandomGenerator.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Asymmetric_Traveling_Salesian_Problem.dir\RandomGenerator.cpp.obj -c "C:\Users\Kuba\CLionProjects\Algorithms\Brute_Force_and_Branch&Bound\RandomGenerator.cpp"
 
 CMakeFiles/Asymmetric_Traveling_Salesian_Problem.dir/RandomGenerator.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Asymmetric_Traveling_Salesian_Problem.dir/RandomGenerator.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Kuba\CLionProjects\Asymmetric Traveling Salesian Problem\RandomGenerator.cpp" > CMakeFiles\Asymmetric_Traveling_Salesian_Problem.dir\RandomGenerator.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Kuba\CLionProjects\Algorithms\Brute_Force_and_Branch&Bound\RandomGenerator.cpp" > CMakeFiles\Asymmetric_Traveling_Salesian_Problem.dir\RandomGenerator.cpp.i
 
 CMakeFiles/Asymmetric_Traveling_Salesian_Problem.dir/RandomGenerator.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Asymmetric_Traveling_Salesian_Problem.dir/RandomGenerator.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Kuba\CLionProjects\Asymmetric Traveling Salesian Problem\RandomGenerator.cpp" -o CMakeFiles\Asymmetric_Traveling_Salesian_Problem.dir\RandomGenerator.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Kuba\CLionProjects\Algorithms\Brute_Force_and_Branch&Bound\RandomGenerator.cpp" -o CMakeFiles\Asymmetric_Traveling_Salesian_Problem.dir\RandomGenerator.cpp.s
 
 CMakeFiles/Asymmetric_Traveling_Salesian_Problem.dir/TravellingSalesian.cpp.obj: CMakeFiles/Asymmetric_Traveling_Salesian_Problem.dir/flags.make
 CMakeFiles/Asymmetric_Traveling_Salesian_Problem.dir/TravellingSalesian.cpp.obj: ../TravellingSalesian.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Kuba\CLionProjects\Asymmetric Traveling Salesian Problem\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Asymmetric_Traveling_Salesian_Problem.dir/TravellingSalesian.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Asymmetric_Traveling_Salesian_Problem.dir\TravellingSalesian.cpp.obj -c "C:\Users\Kuba\CLionProjects\Asymmetric Traveling Salesian Problem\TravellingSalesian.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Kuba\CLionProjects\Algorithms\Brute_Force_and_Branch&Bound\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Asymmetric_Traveling_Salesian_Problem.dir/TravellingSalesian.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Asymmetric_Traveling_Salesian_Problem.dir\TravellingSalesian.cpp.obj -c "C:\Users\Kuba\CLionProjects\Algorithms\Brute_Force_and_Branch&Bound\TravellingSalesian.cpp"
 
 CMakeFiles/Asymmetric_Traveling_Salesian_Problem.dir/TravellingSalesian.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Asymmetric_Traveling_Salesian_Problem.dir/TravellingSalesian.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Kuba\CLionProjects\Asymmetric Traveling Salesian Problem\TravellingSalesian.cpp" > CMakeFiles\Asymmetric_Traveling_Salesian_Problem.dir\TravellingSalesian.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Kuba\CLionProjects\Algorithms\Brute_Force_and_Branch&Bound\TravellingSalesian.cpp" > CMakeFiles\Asymmetric_Traveling_Salesian_Problem.dir\TravellingSalesian.cpp.i
 
 CMakeFiles/Asymmetric_Traveling_Salesian_Problem.dir/TravellingSalesian.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Asymmetric_Traveling_Salesian_Problem.dir/TravellingSalesian.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Kuba\CLionProjects\Asymmetric Traveling Salesian Problem\TravellingSalesian.cpp" -o CMakeFiles\Asymmetric_Traveling_Salesian_Problem.dir\TravellingSalesian.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Kuba\CLionProjects\Algorithms\Brute_Force_and_Branch&Bound\TravellingSalesian.cpp" -o CMakeFiles\Asymmetric_Traveling_Salesian_Problem.dir\TravellingSalesian.cpp.s
 
 CMakeFiles/Asymmetric_Traveling_Salesian_Problem.dir/Time.cpp.obj: CMakeFiles/Asymmetric_Traveling_Salesian_Problem.dir/flags.make
 CMakeFiles/Asymmetric_Traveling_Salesian_Problem.dir/Time.cpp.obj: ../Time.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Kuba\CLionProjects\Asymmetric Traveling Salesian Problem\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Asymmetric_Traveling_Salesian_Problem.dir/Time.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Asymmetric_Traveling_Salesian_Problem.dir\Time.cpp.obj -c "C:\Users\Kuba\CLionProjects\Asymmetric Traveling Salesian Problem\Time.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Kuba\CLionProjects\Algorithms\Brute_Force_and_Branch&Bound\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Asymmetric_Traveling_Salesian_Problem.dir/Time.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Asymmetric_Traveling_Salesian_Problem.dir\Time.cpp.obj -c "C:\Users\Kuba\CLionProjects\Algorithms\Brute_Force_and_Branch&Bound\Time.cpp"
 
 CMakeFiles/Asymmetric_Traveling_Salesian_Problem.dir/Time.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Asymmetric_Traveling_Salesian_Problem.dir/Time.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Kuba\CLionProjects\Asymmetric Traveling Salesian Problem\Time.cpp" > CMakeFiles\Asymmetric_Traveling_Salesian_Problem.dir\Time.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Kuba\CLionProjects\Algorithms\Brute_Force_and_Branch&Bound\Time.cpp" > CMakeFiles\Asymmetric_Traveling_Salesian_Problem.dir\Time.cpp.i
 
 CMakeFiles/Asymmetric_Traveling_Salesian_Problem.dir/Time.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Asymmetric_Traveling_Salesian_Problem.dir/Time.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Kuba\CLionProjects\Asymmetric Traveling Salesian Problem\Time.cpp" -o CMakeFiles\Asymmetric_Traveling_Salesian_Problem.dir\Time.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Kuba\CLionProjects\Algorithms\Brute_Force_and_Branch&Bound\Time.cpp" -o CMakeFiles\Asymmetric_Traveling_Salesian_Problem.dir\Time.cpp.s
 
 # Object files for target Asymmetric_Traveling_Salesian_Problem
 Asymmetric_Traveling_Salesian_Problem_OBJECTS = \
@@ -126,7 +126,7 @@ Asymmetric_Traveling_Salesian_Problem.exe: CMakeFiles/Asymmetric_Traveling_Sales
 Asymmetric_Traveling_Salesian_Problem.exe: CMakeFiles/Asymmetric_Traveling_Salesian_Problem.dir/linklibs.rsp
 Asymmetric_Traveling_Salesian_Problem.exe: CMakeFiles/Asymmetric_Traveling_Salesian_Problem.dir/objects1.rsp
 Asymmetric_Traveling_Salesian_Problem.exe: CMakeFiles/Asymmetric_Traveling_Salesian_Problem.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\Kuba\CLionProjects\Asymmetric Traveling Salesian Problem\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable Asymmetric_Traveling_Salesian_Problem.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\Kuba\CLionProjects\Algorithms\Brute_Force_and_Branch&Bound\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable Asymmetric_Traveling_Salesian_Problem.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Asymmetric_Traveling_Salesian_Problem.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -139,6 +139,6 @@ CMakeFiles/Asymmetric_Traveling_Salesian_Problem.dir/clean:
 .PHONY : CMakeFiles/Asymmetric_Traveling_Salesian_Problem.dir/clean
 
 CMakeFiles/Asymmetric_Traveling_Salesian_Problem.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Users\Kuba\CLionProjects\Asymmetric Traveling Salesian Problem" "C:\Users\Kuba\CLionProjects\Asymmetric Traveling Salesian Problem" "C:\Users\Kuba\CLionProjects\Asymmetric Traveling Salesian Problem\cmake-build-debug" "C:\Users\Kuba\CLionProjects\Asymmetric Traveling Salesian Problem\cmake-build-debug" "C:\Users\Kuba\CLionProjects\Asymmetric Traveling Salesian Problem\cmake-build-debug\CMakeFiles\Asymmetric_Traveling_Salesian_Problem.dir\DependInfo.cmake" --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Users\Kuba\CLionProjects\Algorithms\Brute_Force_and_Branch&Bound" "C:\Users\Kuba\CLionProjects\Algorithms\Brute_Force_and_Branch&Bound" "C:\Users\Kuba\CLionProjects\Algorithms\Brute_Force_and_Branch&Bound\cmake-build-debug" "C:\Users\Kuba\CLionProjects\Algorithms\Brute_Force_and_Branch&Bound\cmake-build-debug" "C:\Users\Kuba\CLionProjects\Algorithms\Brute_Force_and_Branch&Bound\cmake-build-debug\CMakeFiles\Asymmetric_Traveling_Salesian_Problem.dir\DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/Asymmetric_Traveling_Salesian_Problem.dir/depend
 
