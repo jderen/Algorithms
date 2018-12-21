@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Kuba/CLionProjects/Algorithms/PEA2Project
+# Install script for directory: C:/Users/Kuba/CLionProjects/Algorithms/Tabu_Search_and_Simulated_Annealing
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/Kuba/CLionProjects/Algorithms/PEA2Project/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/Kuba/CLionProjects/Algorithms/Tabu_Search_and_Simulated_Annealing/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

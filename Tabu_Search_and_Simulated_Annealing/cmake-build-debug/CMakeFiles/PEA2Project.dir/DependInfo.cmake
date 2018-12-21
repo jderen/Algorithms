@@ -4,12 +4,12 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/Kuba/CLionProjects/Algorithms/PEA2Project/PEA2.cpp" "C:/Users/Kuba/CLionProjects/Algorithms/PEA2Project/cmake-build-debug/CMakeFiles/PEA2Project.dir/PEA2.cpp.obj"
-  "C:/Users/Kuba/CLionProjects/Algorithms/PEA2Project/SimulatedAnnealing.cpp" "C:/Users/Kuba/CLionProjects/Algorithms/PEA2Project/cmake-build-debug/CMakeFiles/PEA2Project.dir/SimulatedAnnealing.cpp.obj"
-  "C:/Users/Kuba/CLionProjects/Algorithms/PEA2Project/TabuSearch.cpp" "C:/Users/Kuba/CLionProjects/Algorithms/PEA2Project/cmake-build-debug/CMakeFiles/PEA2Project.dir/TabuSearch.cpp.obj"
-  "C:/Users/Kuba/CLionProjects/Algorithms/PEA2Project/Time.cpp" "C:/Users/Kuba/CLionProjects/Algorithms/PEA2Project/cmake-build-debug/CMakeFiles/PEA2Project.dir/Time.cpp.obj"
-  "C:/Users/Kuba/CLionProjects/Algorithms/PEA2Project/TravelingSalesman.cpp" "C:/Users/Kuba/CLionProjects/Algorithms/PEA2Project/cmake-build-debug/CMakeFiles/PEA2Project.dir/TravelingSalesman.cpp.obj"
-  "C:/Users/Kuba/CLionProjects/Algorithms/PEA2Project/main.cpp" "C:/Users/Kuba/CLionProjects/Algorithms/PEA2Project/cmake-build-debug/CMakeFiles/PEA2Project.dir/main.cpp.obj"
+  "C:/Users/Kuba/CLionProjects/Algorithms/Tabu_Search_and_Simulated_Annealing/PEA2.cpp" "C:/Users/Kuba/CLionProjects/Algorithms/Tabu_Search_and_Simulated_Annealing/cmake-build-debug/CMakeFiles/PEA2Project.dir/PEA2.cpp.obj"
+  "C:/Users/Kuba/CLionProjects/Algorithms/Tabu_Search_and_Simulated_Annealing/SimulatedAnnealing.cpp" "C:/Users/Kuba/CLionProjects/Algorithms/Tabu_Search_and_Simulated_Annealing/cmake-build-debug/CMakeFiles/PEA2Project.dir/SimulatedAnnealing.cpp.obj"
+  "C:/Users/Kuba/CLionProjects/Algorithms/Tabu_Search_and_Simulated_Annealing/TabuSearch.cpp" "C:/Users/Kuba/CLionProjects/Algorithms/Tabu_Search_and_Simulated_Annealing/cmake-build-debug/CMakeFiles/PEA2Project.dir/TabuSearch.cpp.obj"
+  "C:/Users/Kuba/CLionProjects/Algorithms/Tabu_Search_and_Simulated_Annealing/Time.cpp" "C:/Users/Kuba/CLionProjects/Algorithms/Tabu_Search_and_Simulated_Annealing/cmake-build-debug/CMakeFiles/PEA2Project.dir/Time.cpp.obj"
+  "C:/Users/Kuba/CLionProjects/Algorithms/Tabu_Search_and_Simulated_Annealing/TravelingSalesman.cpp" "C:/Users/Kuba/CLionProjects/Algorithms/Tabu_Search_and_Simulated_Annealing/cmake-build-debug/CMakeFiles/PEA2Project.dir/TravelingSalesman.cpp.obj"
+  "C:/Users/Kuba/CLionProjects/Algorithms/Tabu_Search_and_Simulated_Annealing/main.cpp" "C:/Users/Kuba/CLionProjects/Algorithms/Tabu_Search_and_Simulated_Annealing/cmake-build-debug/CMakeFiles/PEA2Project.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

@@ -42,10 +42,10 @@ RM = "C:\Users\Kuba\AppData\Roaming\JetBrains\CLion 2018.2.5\bin\cmake\win\bin\c
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\Kuba\CLionProjects\Algorithms\PEA2Project
+CMAKE_SOURCE_DIR = C:\Users\Kuba\CLionProjects\Algorithms\Tabu_Search_and_Simulated_Annealing
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\Kuba\CLionProjects\Algorithms\PEA2Project\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\Kuba\CLionProjects\Algorithms\Tabu_Search_and_Simulated_Annealing\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/PEA2Project.dir/depend.make
@@ -58,81 +58,81 @@ include CMakeFiles/PEA2Project.dir/flags.make
 
 CMakeFiles/PEA2Project.dir/main.cpp.obj: CMakeFiles/PEA2Project.dir/flags.make
 CMakeFiles/PEA2Project.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Kuba\CLionProjects\Algorithms\PEA2Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/PEA2Project.dir/main.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\PEA2Project.dir\main.cpp.obj -c C:\Users\Kuba\CLionProjects\Algorithms\PEA2Project\main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Kuba\CLionProjects\Algorithms\Tabu_Search_and_Simulated_Annealing\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/PEA2Project.dir/main.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\PEA2Project.dir\main.cpp.obj -c C:\Users\Kuba\CLionProjects\Algorithms\Tabu_Search_and_Simulated_Annealing\main.cpp
 
 CMakeFiles/PEA2Project.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/PEA2Project.dir/main.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Kuba\CLionProjects\Algorithms\PEA2Project\main.cpp > CMakeFiles\PEA2Project.dir\main.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Kuba\CLionProjects\Algorithms\Tabu_Search_and_Simulated_Annealing\main.cpp > CMakeFiles\PEA2Project.dir\main.cpp.i
 
 CMakeFiles/PEA2Project.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/PEA2Project.dir/main.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Kuba\CLionProjects\Algorithms\PEA2Project\main.cpp -o CMakeFiles\PEA2Project.dir\main.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Kuba\CLionProjects\Algorithms\Tabu_Search_and_Simulated_Annealing\main.cpp -o CMakeFiles\PEA2Project.dir\main.cpp.s
 
 CMakeFiles/PEA2Project.dir/PEA2.cpp.obj: CMakeFiles/PEA2Project.dir/flags.make
 CMakeFiles/PEA2Project.dir/PEA2.cpp.obj: ../PEA2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Kuba\CLionProjects\Algorithms\PEA2Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/PEA2Project.dir/PEA2.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\PEA2Project.dir\PEA2.cpp.obj -c C:\Users\Kuba\CLionProjects\Algorithms\PEA2Project\PEA2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Kuba\CLionProjects\Algorithms\Tabu_Search_and_Simulated_Annealing\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/PEA2Project.dir/PEA2.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\PEA2Project.dir\PEA2.cpp.obj -c C:\Users\Kuba\CLionProjects\Algorithms\Tabu_Search_and_Simulated_Annealing\PEA2.cpp
 
 CMakeFiles/PEA2Project.dir/PEA2.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/PEA2Project.dir/PEA2.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Kuba\CLionProjects\Algorithms\PEA2Project\PEA2.cpp > CMakeFiles\PEA2Project.dir\PEA2.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Kuba\CLionProjects\Algorithms\Tabu_Search_and_Simulated_Annealing\PEA2.cpp > CMakeFiles\PEA2Project.dir\PEA2.cpp.i
 
 CMakeFiles/PEA2Project.dir/PEA2.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/PEA2Project.dir/PEA2.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Kuba\CLionProjects\Algorithms\PEA2Project\PEA2.cpp -o CMakeFiles\PEA2Project.dir\PEA2.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Kuba\CLionProjects\Algorithms\Tabu_Search_and_Simulated_Annealing\PEA2.cpp -o CMakeFiles\PEA2Project.dir\PEA2.cpp.s
 
 CMakeFiles/PEA2Project.dir/TravelingSalesman.cpp.obj: CMakeFiles/PEA2Project.dir/flags.make
 CMakeFiles/PEA2Project.dir/TravelingSalesman.cpp.obj: ../TravelingSalesman.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Kuba\CLionProjects\Algorithms\PEA2Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/PEA2Project.dir/TravelingSalesman.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\PEA2Project.dir\TravelingSalesman.cpp.obj -c C:\Users\Kuba\CLionProjects\Algorithms\PEA2Project\TravelingSalesman.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Kuba\CLionProjects\Algorithms\Tabu_Search_and_Simulated_Annealing\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/PEA2Project.dir/TravelingSalesman.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\PEA2Project.dir\TravelingSalesman.cpp.obj -c C:\Users\Kuba\CLionProjects\Algorithms\Tabu_Search_and_Simulated_Annealing\TravelingSalesman.cpp
 
 CMakeFiles/PEA2Project.dir/TravelingSalesman.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/PEA2Project.dir/TravelingSalesman.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Kuba\CLionProjects\Algorithms\PEA2Project\TravelingSalesman.cpp > CMakeFiles\PEA2Project.dir\TravelingSalesman.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Kuba\CLionProjects\Algorithms\Tabu_Search_and_Simulated_Annealing\TravelingSalesman.cpp > CMakeFiles\PEA2Project.dir\TravelingSalesman.cpp.i
 
 CMakeFiles/PEA2Project.dir/TravelingSalesman.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/PEA2Project.dir/TravelingSalesman.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Kuba\CLionProjects\Algorithms\PEA2Project\TravelingSalesman.cpp -o CMakeFiles\PEA2Project.dir\TravelingSalesman.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Kuba\CLionProjects\Algorithms\Tabu_Search_and_Simulated_Annealing\TravelingSalesman.cpp -o CMakeFiles\PEA2Project.dir\TravelingSalesman.cpp.s
 
 CMakeFiles/PEA2Project.dir/TabuSearch.cpp.obj: CMakeFiles/PEA2Project.dir/flags.make
 CMakeFiles/PEA2Project.dir/TabuSearch.cpp.obj: ../TabuSearch.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Kuba\CLionProjects\Algorithms\PEA2Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/PEA2Project.dir/TabuSearch.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\PEA2Project.dir\TabuSearch.cpp.obj -c C:\Users\Kuba\CLionProjects\Algorithms\PEA2Project\TabuSearch.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Kuba\CLionProjects\Algorithms\Tabu_Search_and_Simulated_Annealing\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/PEA2Project.dir/TabuSearch.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\PEA2Project.dir\TabuSearch.cpp.obj -c C:\Users\Kuba\CLionProjects\Algorithms\Tabu_Search_and_Simulated_Annealing\TabuSearch.cpp
 
 CMakeFiles/PEA2Project.dir/TabuSearch.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/PEA2Project.dir/TabuSearch.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Kuba\CLionProjects\Algorithms\PEA2Project\TabuSearch.cpp > CMakeFiles\PEA2Project.dir\TabuSearch.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Kuba\CLionProjects\Algorithms\Tabu_Search_and_Simulated_Annealing\TabuSearch.cpp > CMakeFiles\PEA2Project.dir\TabuSearch.cpp.i
 
 CMakeFiles/PEA2Project.dir/TabuSearch.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/PEA2Project.dir/TabuSearch.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Kuba\CLionProjects\Algorithms\PEA2Project\TabuSearch.cpp -o CMakeFiles\PEA2Project.dir\TabuSearch.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Kuba\CLionProjects\Algorithms\Tabu_Search_and_Simulated_Annealing\TabuSearch.cpp -o CMakeFiles\PEA2Project.dir\TabuSearch.cpp.s
 
 CMakeFiles/PEA2Project.dir/Time.cpp.obj: CMakeFiles/PEA2Project.dir/flags.make
 CMakeFiles/PEA2Project.dir/Time.cpp.obj: ../Time.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Kuba\CLionProjects\Algorithms\PEA2Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/PEA2Project.dir/Time.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\PEA2Project.dir\Time.cpp.obj -c C:\Users\Kuba\CLionProjects\Algorithms\PEA2Project\Time.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Kuba\CLionProjects\Algorithms\Tabu_Search_and_Simulated_Annealing\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/PEA2Project.dir/Time.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\PEA2Project.dir\Time.cpp.obj -c C:\Users\Kuba\CLionProjects\Algorithms\Tabu_Search_and_Simulated_Annealing\Time.cpp
 
 CMakeFiles/PEA2Project.dir/Time.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/PEA2Project.dir/Time.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Kuba\CLionProjects\Algorithms\PEA2Project\Time.cpp > CMakeFiles\PEA2Project.dir\Time.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Kuba\CLionProjects\Algorithms\Tabu_Search_and_Simulated_Annealing\Time.cpp > CMakeFiles\PEA2Project.dir\Time.cpp.i
 
 CMakeFiles/PEA2Project.dir/Time.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/PEA2Project.dir/Time.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Kuba\CLionProjects\Algorithms\PEA2Project\Time.cpp -o CMakeFiles\PEA2Project.dir\Time.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Kuba\CLionProjects\Algorithms\Tabu_Search_and_Simulated_Annealing\Time.cpp -o CMakeFiles\PEA2Project.dir\Time.cpp.s
 
 CMakeFiles/PEA2Project.dir/SimulatedAnnealing.cpp.obj: CMakeFiles/PEA2Project.dir/flags.make
 CMakeFiles/PEA2Project.dir/SimulatedAnnealing.cpp.obj: ../SimulatedAnnealing.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Kuba\CLionProjects\Algorithms\PEA2Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/PEA2Project.dir/SimulatedAnnealing.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\PEA2Project.dir\SimulatedAnnealing.cpp.obj -c C:\Users\Kuba\CLionProjects\Algorithms\PEA2Project\SimulatedAnnealing.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Kuba\CLionProjects\Algorithms\Tabu_Search_and_Simulated_Annealing\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/PEA2Project.dir/SimulatedAnnealing.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\PEA2Project.dir\SimulatedAnnealing.cpp.obj -c C:\Users\Kuba\CLionProjects\Algorithms\Tabu_Search_and_Simulated_Annealing\SimulatedAnnealing.cpp
 
 CMakeFiles/PEA2Project.dir/SimulatedAnnealing.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/PEA2Project.dir/SimulatedAnnealing.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Kuba\CLionProjects\Algorithms\PEA2Project\SimulatedAnnealing.cpp > CMakeFiles\PEA2Project.dir\SimulatedAnnealing.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Kuba\CLionProjects\Algorithms\Tabu_Search_and_Simulated_Annealing\SimulatedAnnealing.cpp > CMakeFiles\PEA2Project.dir\SimulatedAnnealing.cpp.i
 
 CMakeFiles/PEA2Project.dir/SimulatedAnnealing.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/PEA2Project.dir/SimulatedAnnealing.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Kuba\CLionProjects\Algorithms\PEA2Project\SimulatedAnnealing.cpp -o CMakeFiles\PEA2Project.dir\SimulatedAnnealing.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Kuba\CLionProjects\Algorithms\Tabu_Search_and_Simulated_Annealing\SimulatedAnnealing.cpp -o CMakeFiles\PEA2Project.dir\SimulatedAnnealing.cpp.s
 
 # Object files for target PEA2Project
 PEA2Project_OBJECTS = \
@@ -156,7 +156,7 @@ PEA2Project.exe: CMakeFiles/PEA2Project.dir/build.make
 PEA2Project.exe: CMakeFiles/PEA2Project.dir/linklibs.rsp
 PEA2Project.exe: CMakeFiles/PEA2Project.dir/objects1.rsp
 PEA2Project.exe: CMakeFiles/PEA2Project.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Kuba\CLionProjects\Algorithms\PEA2Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable PEA2Project.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Kuba\CLionProjects\Algorithms\Tabu_Search_and_Simulated_Annealing\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable PEA2Project.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\PEA2Project.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -169,6 +169,6 @@ CMakeFiles/PEA2Project.dir/clean:
 .PHONY : CMakeFiles/PEA2Project.dir/clean
 
 CMakeFiles/PEA2Project.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\Kuba\CLionProjects\Algorithms\PEA2Project C:\Users\Kuba\CLionProjects\Algorithms\PEA2Project C:\Users\Kuba\CLionProjects\Algorithms\PEA2Project\cmake-build-debug C:\Users\Kuba\CLionProjects\Algorithms\PEA2Project\cmake-build-debug C:\Users\Kuba\CLionProjects\Algorithms\PEA2Project\cmake-build-debug\CMakeFiles\PEA2Project.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\Kuba\CLionProjects\Algorithms\Tabu_Search_and_Simulated_Annealing C:\Users\Kuba\CLionProjects\Algorithms\Tabu_Search_and_Simulated_Annealing C:\Users\Kuba\CLionProjects\Algorithms\Tabu_Search_and_Simulated_Annealing\cmake-build-debug C:\Users\Kuba\CLionProjects\Algorithms\Tabu_Search_and_Simulated_Annealing\cmake-build-debug C:\Users\Kuba\CLionProjects\Algorithms\Tabu_Search_and_Simulated_Annealing\cmake-build-debug\CMakeFiles\PEA2Project.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/PEA2Project.dir/depend
 
