@@ -15,7 +15,7 @@ PEA3::~PEA3() {
 
 }
 
-void PEAe::start() {
+void PEA3::start() {
 
     int choice;
     while (true)
@@ -46,7 +46,7 @@ void PEAe::start() {
                 break;
 
             case 3:
-                //startGenethicAlgorithm();
+                startAlgorithm();
                 break;
 
             case 4:
@@ -100,5 +100,12 @@ void PEA3::readMatrixFromFile(){
 void PEA3::printMatrix() {
 
     std::cout << std::endl << std::endl << travelingSalesman.getMatrixToString() << std::endl;
+
+}
+
+void PEA3::startAlgorithm()
+{
+    geneticAlgorithm.startAlgorithm(90, 100, 0.35);
+    std::cout << std::endl << geneticAlgorithm.getSolutionToString(geneticAlgorithm.best_solution, geneticAlgorithm.min_cost) << std::endl;
 
 }

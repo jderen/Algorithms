@@ -8,6 +8,7 @@
 #include "TravelingSalesman.h"
 #include "GeneticAlgorithm.h"
 
+
 class PEA3 {
 
 public:
@@ -23,6 +24,7 @@ private:
     GeneticAlgorithm geneticAlgorithm;
     void readMatrixFromFile();
     void printMatrix();
+    void startAlgorithm();
 };
 
 

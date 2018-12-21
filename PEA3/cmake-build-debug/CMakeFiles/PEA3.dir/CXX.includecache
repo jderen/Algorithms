@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Kuba/CLionProjects/Algorithms/PEA3/GeneticAlgorithm.cpp
+GeneticAlgorithm.h
+C:/Users/Kuba/CLionProjects/Algorithms/PEA3/GeneticAlgorithm.h
+iostream
+-
+ctime
+-
+limits
+-
+algorithm
+-
+
+C:/Users/Kuba/CLionProjects/Algorithms/PEA3/GeneticAlgorithm.h
+TravelingSalesman.h
+C:/Users/Kuba/CLionProjects/Algorithms/PEA3/TravelingSalesman.h
+string
+-
+vector
+-
+list
+-
+
+C:/Users/Kuba/CLionProjects/Algorithms/PEA3/TravelingSalesman.h
+vector
+-
+fstream
+-
+string
+-
+
